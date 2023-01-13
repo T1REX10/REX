@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div {
     text-align: center;
 }
@@ -35,3 +36,62 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+=======
+div {
+    text-align: center;
+}
+
+img {
+    width: 1100px;
+
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-style: oblique;
+    font-weight: 800;
+    
+    text-align: center;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+    font-style: oblique;
+    font-weight: 100000px;
+    
+    text-align: left;
+
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-style: oblique;
+    font-weight: 800;
+    
+}
+
+body {
+    text-align: center;
+    background-image: url("DALLE_2023-01-10_14.02.19.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:0;
+    padding:0;
+}
+
+#main_content {
+    display: inline-block;
+    background-color: #F9F6F0;
+    border-color: #6F5B3E;
+    border: 1px #6F5B3E solid;
+    border-radius: 3%;
+    color:black;
+    width:50%;
+    margin-top: 50px;
+}
+
+.banner{
+    background-color: #C4AE78;
+    margin:0;
+}
+>>>>>>> 496adfd6387d5f9d5bf1e96baa08d5dcb32cbabd
