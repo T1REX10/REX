@@ -11,14 +11,16 @@ h2 {
     font-family: Arial, sans-serif;
     font-style: oblique;
     font-weight: 800;
-    background-color:white;
+    
+    text-align: center;
 }
 
 h3 {
     font-family: Arial, sans-serif;
     font-style: oblique;
     font-weight: 100000px;
-    color: rgb(255, 255, 255);
+    
+    text-align: left;
 
 }
 
@@ -26,12 +28,29 @@ p {
     font-family: Arial, sans-serif;
     font-style: oblique;
     font-weight: 800;
-    color:rgb(255, 255, 255);
+    
 }
 
 body {
-    
+    text-align: center;
     background-image: url("DALLE_2023-01-10_14.02.19.png");
     background-position: center;
     background-repeat: no-repeat;
+    margin:0;
+    padding:0;
+}
+
+#main_content {
+    display: inline-block;
+    background-color: #F9F6F0;
+    border-color: #6F5B3E;
+    border: 1px #6F5B3E solid;
+    border-radius: 3%;
+    color:black;
+    width:50%;
+    margin-top: 50px;
+}
+.banner{
+    background-color: #C4AE78;
+    margin:0;
 }
