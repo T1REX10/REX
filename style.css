@@ -141,7 +141,7 @@ nav li:hover .submenu {
     background-color: RGBa(228, 77, 38, 0.15);
 }
 
-.menu-Commandant:hover {
+.menu-Commandanders:hover {
     border-top: 5px solid #0070bb;
     background-color: RGBa(000, 112, 192, 0.15);
 }
@@ -151,8 +151,8 @@ nav li:hover .submenu {
     background-color: RGBa(241, 211, 79, 0.15);
 }
 
-.menu-Tuile:hover {
-    border-top: 5px solid rgb(255, 0, 0);
+.menu-Tile:hover {
+    border-top: 5px solid rgb(237, 14, 152);
     background-color: RGBa(220, 220, 220, 0.15);
 }
 .submenu li:hover a{
