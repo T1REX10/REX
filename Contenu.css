@@ -2,14 +2,14 @@ h4 {
     text-align: center;
     display: block;
     font-family: Arial;
-     margin-bottom: 20px; 
+    margin-bottom: 20px;
+    font-size: 30px;
 }
 
 .imageAdroite {
     width: 35%;
-    float:right;
-    display: -webkit-box;
-    margin-left: auto;
+    display: inline-block;
+    float: right;
 }
 
 div#contenue {
@@ -19,11 +19,126 @@ div#contenue {
     text-align: left;
 }
 
-h5{
-    text-align:left;
+h5 {
+    text-align: left;
     display: block;
     font-family: Arial;
+    margin-bottom: 20px;
+    font-size: 20px;
 }
-.smallWidth {
-width: 60%;
+
+p.smallWidth {
+    display: inline-block;
+    width: 60%;
+    margin: 0;
 }
+
+.imageAgauche {
+    width: 35%;
+    display: inline-block;
+    float: left;
+}
+
+p.smallWodth {
+    display: inline-block;
+    width: 60%;
+    margin-left: 20px;
+}
+
+h6 {
+    text-align: right;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+#contenue div {
+    min-height: 300px;
+}
+
+h7 {
+    text-align: right;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+
+p.smallWpdth {
+    display: inline-block;
+    width: 60%;
+    margin-left: 20px;
+}
+
+h8 {
+    text-align: right;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+p.smallWqdth {
+    display: inline-block;
+    width: 60%;
+    margin-left: 20px;
+}
+
+h9 {
+    text-align: left;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+p.smallWsdth {
+    display: inline-block;
+    width: 60%;
+    margin-left: 20px;
+}
+
+h10 {
+    text-align: right;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 40px;
+  
+}
+
+p.smallWddth {
+    display: inline-block;
+    width: 60%;
+    margin-right: 20px;
+}
+
+p.smallWfdth {
+    display: inline-block;
+    width: 60%;
+    margin-right: 20px;
+}
+
+p.smallWgdth {
+    display: inline-block;
+    width: 60%;
+    margin-right: 20px;
+}
+
+h11 {
+ text-emphasis: right;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 40px;
+}
+
+    h12{
+        text-align: right;
+        display: block;
+        font-family: Arial;
+        margin-bottom: 40px;
+        }
