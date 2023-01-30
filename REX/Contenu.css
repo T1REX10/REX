@@ -1,0 +1,172 @@
+h4 {
+    text-align: center;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.imageAdroite {
+    width: 35%;
+    display: inline-block;
+    float: right;
+}
+
+div#contenue {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: left;
+}
+
+h5 {
+    text-align: left;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 20px;
+font-size: x-large;
+font-weight: bold;
+}
+p.smallWidth {
+    display: inline-block;
+    width: 60%;
+margin: o;
+column-count: auto;
+font: 15px Georgia;
+}
+
+.imageAgauche {
+    width: 35%;
+    display: inline-block;
+    float: left;
+}
+
+p.smallWodth {
+    display: inline-block;
+    width: 60%;
+    margin-left: 20px;
+	column-count: auto;
+	font: 15px Georgia;
+}
+
+h6 {
+    text-align: right;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 20px;
+    margin-left: 10px;
+font-size: x-large;
+font-weight: bold;
+}
+
+#contenue div {
+    min-height: 300px;
+}
+
+h7 {
+    text-align: right;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 20px;
+    margin-left: 10px;
+font-size: x-large;
+font-weight: bold;
+}
+
+
+p.smallWpdth {
+    display: inline-block;
+    width: 60%;
+    margin-left: 20px;
+	column-count: auto;
+	font: 15px Georgia;
+}
+
+h8 {
+    text-align: right;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 20px;
+    margin-left: 10px;
+font-size: x-large;
+font-weight: bold;
+}
+
+p.smallWqdth {
+    display: inline-block;
+    width: 60%;
+    margin-left: 20px;
+	column-count: auto;
+	font: 15px Georgia;
+}
+
+h9 {
+   text-align:left;
+    display: block;
+    font-family: Arial;
+    margin-bottom: auto;
+	clear:left;
+font-size: x-large;
+font-weight: bold;
+}
+
+
+p.smallWsdth {
+    display: inline-block;
+    width: 60%;
+    margin-left: 20px;
+	column-count: auto;
+	font: 15px Georgia;
+}
+
+h10 {
+    text-align: right;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 40px;
+font-size: x-large;
+font-weight: bold;
+}
+
+p.smallWddth {
+    display: inline-block;
+    width: 60%;
+    margin-right: 20px;
+	column-count: auto;
+	font: 15px Georgia;
+}
+
+p.smallWfdth {
+    display: inline-block;
+    width: 60%;
+    margin-right: 20px;
+	column-count: auto;
+	font: 15px Georgia;
+}
+
+p.smallWgdth {
+    display: inline-block;
+    width: 60%;
+    margin-right: 20px;
+	 text-align: right;
+	 column-count: auto;
+	 font: 15px Georgia;
+}
+
+h11 {
+ text-emphasis: right;
+    display: block;
+    font-family: Arial;
+    margin-bottom: 40px;
+	font-size: x-large;
+	font-weight: bold;
+	
+}
+    h12{
+        text-align: right;
+        display: block;
+        font-family: Arial;
+        margin-bottom: 40px;
+		font-size: x-large;
+		font-weight: bold;
+        }
