@@ -1,0 +1,28 @@
+#lakes path {
+    stroke: #2CE3F9;
+}
+
+#bridges polyline {
+    stroke: red;
+}
+
+#rivers path {
+    stroke: #2CE3F9;
+}
+
+#coastline path {
+    stroke: #2CE3F9;
+}
+
+#roads path {
+    stroke: brown;
+}
+
+g path {
+    transition: 1s;
+}
+
+g path:hover {
+    stroke: black !important;
+    transition-duration: 6s;
+}
