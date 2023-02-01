@@ -136,23 +136,28 @@ nav li:hover .submenu {
 }
 
 .menu-Map:hover {
-    border-top: 5px solid #e44d26;
-    background-color: RGBa(228, 77, 38, 0.15);
+    border-top: 5px solid #66CC00;
+    background-color: RGBa(102, 204, 0, 0.15);
 }
 
 .menu-Commandanders:hover {
-    border-top: 5px solid #0070bb;
-    background-color: RGBa(000, 112, 192, 0.15);
+    border-top: 5px solid #999966;
+    background-color: RGBa(153, 153, 102, 0.15);
 }
 
 .menu-Faction:hover {
-    border-top: 5px solid #f1dc4f;
-    background-color: RGBa(241, 211, 79, 0.15);
+    border-top: 5px solid #FFCC00;
+    background-color: RGBa(255, 204, 0, 0.15);
 }
 
 .menu-Tile:hover {
-    border-top: 5px solid rgb(237, 14, 152);
-    background-color: RGBa(220, 220, 220, 0.15);
+    border-top: 5px solid #0070bb;
+    background-color: RGBa(000, 112, 192,0.15);
+}
+
+.menu-Ring:hover {
+    border-top: 5px solid #FF6600;
+    background-color: RGBa(255, 102, 0, 0.15);
 }
 
 .submenu li:hover a {
